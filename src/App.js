@@ -1,4 +1,4 @@
-var Port = process.env.Port || 3000;
+
 import React, { useState } from 'react';
 import SingleColor from './SingleColor'
 
